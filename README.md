@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @javsanpae
 - 👀 I’m interested in Cibersecurity, Development and DevOps.
-- 🌱 I’m currently learning a Higher Level Training Cycle (Spain's "Formación Profesional") of Management of networked computer systems
+- 🌱 I’m currently learning a Higher Level Training Cycle (Spanish "Formación Profesional") on Management of Networked Computer Systems
 - 💞️ I’m looking to collaborate on automation scripting (Bash) and some development (mostly Python and Web) 
 - 📫 How to reach me: 
 
