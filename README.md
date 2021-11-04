@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on automation scripting (Bash) and some development (mostly Python and Web) 
 - 📫 How to reach me: 
 
-      LinkedIn: https://www.linkedin.com/in/javsanpae/
+     LinkedIn: https://www.linkedin.com/in/javsanpae/
 
 
 
