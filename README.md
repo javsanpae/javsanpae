@@ -5,7 +5,7 @@
 - 📫 How to reach me: 
 
      LinkedIn: https://www.linkedin.com/in/javsanpae/
-
+     E-Mail: javiersanchezpaezinformatica@gmail.com 
 
 
 <!---
