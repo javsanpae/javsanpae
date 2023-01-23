@@ -1,12 +1,9 @@
-- 👋 Hi, I’m @javsanpae
-- 👀 I’m interested in Cibersecurity, Development and DevOps.
-- 🌱 I’m currently learning a Certificate of Higher Education (Spanish "Formación Profesional") based on Management of Networked Computer Systems
-- 💞️ I’m looking to collaborate on automation scripting (Bash) and some development (mostly Python and Web) 
+- 👋 Hi, I’m Javier Sánchez (@javsanpae)
+- 👀 I’m interested in Cibersecurity, Backend Development and DevOps.
+- 🌱 I’m currently studying a Certificate of Higher Education (Spanish "Formación Profesional") based on Management of Networked Computer Systems
 - 📫 How to reach me: 
 
-     LinkedIn: https://www.linkedin.com/in/javsanpae/
-     E-Mail: javiersanchezpaezinformatica@gmail.com 
-
+     LinkTree: linktr.ee/javsanpae (you can see my e-mail, CV and all the important stuff there)
 
 <!---
 javsanpae/javsanpae is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
